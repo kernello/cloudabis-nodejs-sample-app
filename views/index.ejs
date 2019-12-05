@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CloudABIS SDK WebForm</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        .homeContainer{
+            display: flex;
+            align-items: center;
+            height: 100vh;
+            justify-content: center;
+            flex-direction: column;
+            background-color: #ff9900;
+        }
+        .homeContainer div{
+            background-color: #f5f5f5;
+            width: 190px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .homeContainer div a{
+            text-decoration: none;
+            display: block;
+            color: #ff9900;
+            font-family: arial;
+            font-size: 16px;
+            transition: all .3s;
+            padding: 12px 0px;
+            border:1px solid #f5f5f5;
+        }
+        .homeContainer div a:hover{
+            background-color: #ff9900;
+            color: #fff;
+        }
+        .headline{
+            text-align: center;
+            margin-top: 0;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container homeContainer">
+        <h1 class="headline">Welcome To CloudABIS web (Node JS) application</h1>
+        <div><a href="/isRegister">IsRegistered</a></div>
+        <div><a href="/changeID">ChangeID</a></div>
+        <div><a href="/deleteID">DeleteID</a></div>
+        <div><a href="/register">Register</a></div>
+        <div><a href="/identify">Identify</a></div>
+        <div><a href="/verify">Verify</a></div>
+        <div><a href="/update">Update</a></div>
+        <div><a href="/activeDevice">Change active device</a></div>
+    </div>
+</body>
+</html>

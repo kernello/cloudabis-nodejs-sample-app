@@ -5,7 +5,7 @@ CloudABIS™ can compare millions of ISO fingerprint templates/sec for fast 1:N 
 # Product & Getting Started
 - [Product Page](https://www.m2sys.com/cloud-based-abis-automated-biometric-identification-system-api/)
 - [CloudABIS Demo Video](https://www.youtube.com/watch?v=fcjU5uq46dQ&utm_source=Youtube+&utm_medium=Cloud+Biometric+Software&utm_campaign=CloudABIS+Drip+)
-- [Getting Started Documentation](https://identity.kernello.com/doc)
+- [Getting Started Documentation](https://identity.cloudapper.com/doc)
 
 # Video Tutorials on CloudABIS Integration
  - [CloudABIS Tutorial - Integrate with C#](https://www.youtube.com/watch?v=2XEi04yGVx8&feature=emb_logo)
@@ -20,6 +20,6 @@ CloudABIS™ can compare millions of ISO fingerprint templates/sec for fast 1:N 
  - [FingerVein](https://fvsvr101.cloudabis.com/v1/Help)
 
 # Supported Biometric Devices
- - https://identity.kernello.com/device
+ - https://identity.cloudapper.com/device
 
 
